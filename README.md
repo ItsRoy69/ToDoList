@@ -31,11 +31,6 @@ OR
 
 ​
 
-# Heroku Link
-
-https://fierce-earth-17205.herokuapp.com/
-
-
 
 
 
