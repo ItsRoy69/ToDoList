@@ -1,19 +1,10 @@
 # ToDoList
 
-
-
-# Newsletter-Signup
-
-#Download the Files
-
-# Atom
-
-#Open all these files from Atom
-
-# Hyper
 ​
+# Clone the repository
 ```
 
+git clone https://github.com/ItsRoy69/ToDoList.git
 cd Todolist(folder)
 npm init
 npm i body-parse
@@ -24,22 +15,3 @@ nodemon app.js
 # Localhost :3000
 
 Check it in Browser
-
-​
-
-OR
-
-​
-
-I haven't published this website on any platform.
-
-
-
-
-
-
-
-
-
-
-
